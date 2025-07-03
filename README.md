@@ -29,6 +29,15 @@ While working in home automation, I found how vulnerable IoT devices can be on t
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### Control4 
+<div>
+    <img src="https://img.shields.io/badge/-Control4-E5002C?&style=for-the-badge&logo=Control4&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Control4-E5002C?&style=for-the-badge&logo=Control4&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Control4-E5002C?&style=for-the-badge&logo=Control4&logoColor=white" />
+
+</div>
+
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -51,5 +60,7 @@ While working in home automation, I found how vulnerable IoT devices can be on t
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Network Analysis
+- Control4 OvRC
+- NMAP scanning
+- Android spoofing
