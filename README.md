@@ -1,9 +1,7 @@
 # Hello, I'm Bright 
 <a href="https://linkedin.com/in/bright-nwaobilor-profile0012"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a network engineer with over a decade experience from the Home automation sector. I have vast experince in configuring, managing and troubleshooting networks, home automation systems and solving problems relating to IT. I also have an interest in cyber security.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
