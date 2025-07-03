@@ -5,7 +5,7 @@ I am a network engineer with over a decade experience from the Home automation s
 
 ## Objective
 
-While working in home automation, I found how vulnerable IoT devices can be on the network hence i developed a strong interest to understand and mitigate these security vulnerabilities. 
+While working in home automation, I found how vulnerable IoT devices can be on the network hence i developed a strong interest to understand and mitigate these security vulnerabilities. This discovery has fueled by eagerness to transition into Cyber Security, specifically to join a Security Operations Center(SOC) as an Analyst
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
