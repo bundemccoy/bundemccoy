@@ -18,7 +18,7 @@ While working in home automation, I found how vulnerable IoT devices can be on t
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Penetration Testing                           | Metasploit Lab  |
+| Penetration Testing                           | <a href="https://github.com/bundemccoy/buffer-overflow.git">Metasploit Lab</a>  |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
