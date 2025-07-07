@@ -18,6 +18,7 @@ While working in home automation, I found how vulnerable IoT devices can be on t
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Penetration Testing                           | Metaspoit Lab  |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -64,3 +65,4 @@ While working in home automation, I found how vulnerable IoT devices can be on t
 - Control4 OvRC
 - NMAP scanning
 - Android spoofing
+- Buffer overflow
