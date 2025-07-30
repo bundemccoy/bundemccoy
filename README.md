@@ -23,21 +23,34 @@ While working in home automation, I found how vulnerable IoT devices can be on t
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco-777BB4?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pakedge-777BB4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubiquiti-777BB4?&style=for-the-badge&logo=Ubiquiti&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grandstream-777BB4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Araknis-777BB4?&style=for-the-badge&logoColor=white" />
+
+
 </div>
 
-### Control4 
+### Control Systems  
 <div>
     <img src="https://img.shields.io/badge/-Control4-E5002C?&style=for-the-badge&logo=Control4&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RTI-4B0082?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Lutron-4B0082?&style=for-the-badge&logo=Lutron&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KNX-4B0082?&style=for-the-badge&logo=KNX&logoColor=white" />
 
+        
 </div>
 
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   <img src="https://img.shields.io/badge/-pfSense-4B275F?&style=for-the-badge&logo=pfSense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco-777BB4?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pakedge-777BB4?&style=for-the-badge&logoColor=white" />
+
+
 </div>
 
 ### SIEM
